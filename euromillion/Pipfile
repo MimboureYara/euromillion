@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+requests = "*"
+dvc = {extras = ["s3"], version = "2.9.2"}
+pipfile = "*"
+gdown = "4.20"
+scikit-learn = "1.0.1"
+
+[dev-packages]
+isort = "5.10.1"
+
+[requires]
+python_version = "3.9"

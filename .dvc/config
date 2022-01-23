@@ -1,0 +1,4 @@
+[core]
+    remote = donneedistant
+['remote "donneedistant"']
+    url = gdrive://1ITisOTvO0eq2I9bY1NGqWGlh7Kq05T7y
